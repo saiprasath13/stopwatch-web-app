@@ -1,2 +1,16 @@
-# stopwatch-web-app
-A digital stopwatch web app built using HTML, CSS, and JavaScript with start, stop, and reset functionality.
+ Stopwatch Web App
+
+This is a simple digital stopwatch built using HTML, CSS, and JavaScript.
+
+ Features
+- Start timer
+- Stop timer
+- Reset timer
+- Clean digital interface
+
+ Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+
